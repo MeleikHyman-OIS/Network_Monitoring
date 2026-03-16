@@ -1,0 +1,26 @@
+# Python virtual environment
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files (optional - remove if you want to commit test data)
+# test_pa_traffic.log
+
